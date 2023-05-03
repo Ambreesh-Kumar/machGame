@@ -1,0 +1,78 @@
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  height: 100%;
+  background-size: cover;
+  padding-bottom: 110px;
+}
+.game-header {
+  height: 10vh;
+  background-color: #2c0e3a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.game-logo {
+  height: 40px;
+}
+.clock-image {
+  height: 18px;
+  margin-right: 8px;
+}
+.score-time-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.score {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 18px;
+  color: #ffffff;
+}
+.score-count {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 25px;
+  color: #fec653;
+}
+.timer-image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  margin-bottom: 18px;
+}
+.game-bottom-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+.displayed-image {
+  height: 40vh;
+}
+.tab-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.thumbnail-image-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.score-card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

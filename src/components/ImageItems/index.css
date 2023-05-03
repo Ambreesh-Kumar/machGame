@@ -1,0 +1,10 @@
+.thumbnail-list {
+}
+.thumbnail-image {
+  height: 15vh;
+}
+.button {
+  border-width: 0px;
+  background-color: transparent;
+  margin-right: 5px;
+}
